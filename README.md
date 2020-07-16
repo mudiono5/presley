@@ -1,5 +1,6 @@
 # Elvis Presley Biography
 ![Branching](140715121018.jpg)
+
 Elvis Aaron Presley (January 8, 1935 – August 16, 1977) – an American singer, musician and actor.
 
 Elvis Presley became one of the most influential cultural icons of a generation. He is commonly referred to as the “The King of Rock ‘n’ Roll” and epitomises the post-war pop generation.
